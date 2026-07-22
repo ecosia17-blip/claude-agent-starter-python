@@ -1,22 +1,19 @@
 const en = {
   // Header
-  "app.title": "Claude Agent Starter",
-  "app.subtitle": "Running on EdgeOne Makers with sandbox tools, session memory & observability",
-
+  "app.title": "Nive Pro Fab 7",
   // Empty state
-  "empty.title": "Claude Agent Starter",
-  "empty.hint": "I'm a Claude assistant running on EdgeOne. I can call sandbox tools, persist session memory, and help you with debugging, file management, code execution, and web browsing.",
+  "empty.title": "Nive Pro Fab 7",
+  "empty.hint": "I'm Your personal AI  assistant . I can call sandbox tools, persist session memory, and help you with debugging, file management, code execution, and web browsing.",
   "empty.features": "Sandbox Tools · Store Memory · Observability",
 
   // Chat input
   "chat.placeholder": "Type a message...  ⏎ Send · Shift+⏎ Newline",
-  "chat.hint": "Powered by Claude Agent SDK + EdgeOne Makers · Demo only",
+  "chat.hint": "Powered by Nive",
 
   // Preset questions
   "preset.1": "Use terminal commands to check the current system time and OS version.",
   "preset.2": "Create /tmp/fib.py, write Python code to calculate the first 10 Fibonacci numbers, execute it, and print the result.",
   "preset.4": "Visit https://edgeone.ai and summarize the page content.",
-  "preset.screenshotEdgeOne": "Take a screenshot of edgeone.ai.",
   "preset.skill.sandboxAlgorithms": "Calculate the first 20 Fibonacci numbers and provide the execution result.",
 
   // Tool indicators
